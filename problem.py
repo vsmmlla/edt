@@ -8,14 +8,20 @@ class Pb_edt:
         self.profs = profs
         self.classes = classes
 
-    def nb_collision(self):
+    def nb_collision(self): #TODO try without
+        test_de_noob_1
         pass
 
-    def get_voisins(self, s):
+    def get_voisins(self, sol):
+        test_de_noob_2
         pass
 
+<<<<<<< HEAD
     def print_solution(self, s):
         "test temporaire"
+=======
+    def print_solution(self, sol):
+>>>>>>> origin/master
         pass
 
 
