@@ -16,12 +16,8 @@ class Pb_edt:
         test_de_noob_2
         pass
 
-<<<<<<< HEAD
     def print_solution(self, s):
         "test temporaire"
-=======
-    def print_solution(self, sol):
->>>>>>> origin/master
         pass
 
 
