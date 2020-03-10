@@ -17,8 +17,7 @@ class Pb_edt:
         pass
 
     def print_solution(self, s):
-        "test git conflit"
-        "test"
+        "test temporaire"
         pass
 
 
