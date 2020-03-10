@@ -15,6 +15,7 @@ class Pb_edt:
         pass
 
     def print_solution(self, s):
+        "test temporaire"
         pass
 
 
